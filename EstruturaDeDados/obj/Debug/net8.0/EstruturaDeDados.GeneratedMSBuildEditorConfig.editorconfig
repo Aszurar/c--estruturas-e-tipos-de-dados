@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EstruturaDeDados
-build_property.ProjectDir = C:\Users\llmartins\Documents\Desenvolvimento\Estudo\EstruturaDeDados\EstruturaDeDados\
+build_property.ProjectDir = E:\Desenvolvimento\backend\dotnet\estudo\csharp-estruturas-e-tipos-de-dados\EstruturaDeDados\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
