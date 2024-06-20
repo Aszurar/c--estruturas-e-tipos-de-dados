@@ -43,42 +43,20 @@
 ## :interrobang: Motivo
 
 - Esse projeto tem o objetivo de praticar conceitos básicos do C# e formas de se trabalhar com eles.
-- Tipos dados abordads:
-   i. Numéricos
-  ii. Booleanos
- iii. Textos: 
-  iv. Datas
-   v. Enums
-  vi. Var
- vii. Objects
-viii. Null
+- Tipos dados abordads: Numéricos, Booleanos. Textos, Datas, Enums, Var, Objects e Null
 
-- Coleções:
-  i. Arrays
- ii. Listas
-iii. Dicionários
- iv. HashSet
+- Coleções: Arrays, Listas, Dicionários e HashSet
 
-- Estruturtas de controle:
-   i. if, else e else if
-  ii. Ternários
- iii. Switch
+- Estruturtas de controle: if, else e else if, Ternários e Switch
 
-- Estruturas de repetição:
-  i. for
- ii. for earch
-iii. while
- iv. do while
+- Estruturas de repetição: for, for earch, while, do while
 
- - Jumps:
-   i. Break
-  ii. Continue
- iii. Return
+ - Jumps: Break, Continue e Return
 
 - Além disso, abordamos os conceitos de:
-   i. Funções com ou sem parâmetros e retornos
-  ii. Motificador static, que torna os métodos de uma classe acessíveis diretamente sem a necessidade de realizar instâncias dessa classe, e nos atributos fazem que seus valores sejam compartilhados entre todas suas instâncias. 
- iii. Formas de debug no Visual Studio
+   1. Funções com ou sem parâmetros e retornos
+   2. Motificador static, que torna os métodos de uma classe acessíveis diretamente sem a necessidade de realizar instâncias dessa classe, e nos atributos fazem que seus valores sejam compartilhados entre todas suas instâncias. 
+   3. Formas de debug no Visual Studio
 
 
 ---
@@ -106,7 +84,7 @@ iii. while
 - Clonar o projeto:
 
   ```bash
-   git clone https://github.com/Aszurar/csharp-fundamentos.git
+   git clone https://github.com/Aszurar/csharp-estruturas-e-tipos-de-dados.git
   ```
 
 - É necessário ter o ambiente do .NET, recomande a instalação do Microsoft Visual Studio em conjunto dos pacotes **ASP.NET e desenvolvimento Web**, **Desenvolvimento para desktop com .NET** e **Desenvolvimento com a Plataforma Universal do Windows** .
