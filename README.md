@@ -42,10 +42,43 @@
 
 ## :interrobang: Motivo
 
-- Esse projeto tem o objetivo de praticar conceitos básicos do C#
+- Esse projeto tem o objetivo de praticar conceitos básicos do C# e formas de se trabalhar com eles.
+- Tipos dados abordads:
+   i. Numéricos
+  ii. Booleanos
+ iii. Textos: 
+  iv. Datas
+   v. Enums
+  vi. Var
+ vii. Objects
+viii. Null
 
-### Conceitos praticados:
+- Coleções:
+  i. Arrays
+ ii. Listas
+iii. Dicionários
+ iv. HashSet
 
+- Estruturtas de controle:
+   i. if, else e else if
+  ii. Ternários
+ iii. Switch
+
+- Estruturas de repetição:
+  i. for
+ ii. for earch
+iii. while
+ iv. do while
+
+ - Jumps:
+   i. Break
+  ii. Continue
+ iii. Return
+
+- Além disso, abordamos os conceitos de:
+   i. Funções com ou sem parâmetros e retornos
+  ii. Motificador static, que torna os métodos de uma classe acessíveis diretamente sem a necessidade de realizar instâncias dessa classe, e nos atributos fazem que seus valores sejam compartilhados entre todas suas instâncias. 
+ iii. Formas de debug no Visual Studio
 
 
 ---
