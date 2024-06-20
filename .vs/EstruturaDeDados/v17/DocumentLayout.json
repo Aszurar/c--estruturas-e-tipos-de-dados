@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\csharp-estruturas-e-tipos-de-dados\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B0F17688-2BA2-4392-9E99-4A352E382850}|EstruturaDeDados\\EstruturaDeDados.csproj|e:\\desenvolvimento\\backend\\dotnet\\estudo\\csharp-estruturas-e-tipos-de-dados\\estruturadedados\\estruturasjumps\\estruturasjumps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0F17688-2BA2-4392-9E99-4A352E382850}|EstruturaDeDados\\EstruturaDeDados.csproj|solutionrelative:estruturadedados\\estruturasjumps\\estruturasjumps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0F17688-2BA2-4392-9E99-4A352E382850}|EstruturaDeDados\\EstruturaDeDados.csproj|e:\\desenvolvimento\\backend\\dotnet\\estudo\\csharp-estruturas-e-tipos-de-dados\\estruturadedados\\variaveis\\listas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0F17688-2BA2-4392-9E99-4A352E382850}|EstruturaDeDados\\EstruturaDeDados.csproj|solutionrelative:estruturadedados\\variaveis\\listas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B0F17688-2BA2-4392-9E99-4A352E382850}|EstruturaDeDados\\EstruturaDeDados.csproj|e:\\desenvolvimento\\backend\\dotnet\\estudo\\csharp-estruturas-e-tipos-de-dados\\estruturadedados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0F17688-2BA2-4392-9E99-4A352E382850}|EstruturaDeDados\\EstruturaDeDados.csproj|solutionrelative:estruturadedados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0F17688-2BA2-4392-9E99-4A352E382850}|EstruturaDeDados\\EstruturaDeDados.csproj|e:\\desenvolvimento\\backend\\dotnet\\estudo\\csharp-estruturas-e-tipos-de-dados\\estruturadedados\\variaveis\\hashsetlistaunica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0F17688-2BA2-4392-9E99-4A352E382850}|EstruturaDeDados\\EstruturaDeDados.csproj|solutionrelative:estruturadedados\\variaveis\\hashsetlistaunica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,17 +14,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\csharp-estruturas-e-tipos-de-dados\\EstruturaDeDados\\Program.cs",
               "RelativeDocumentMoniker": "EstruturaDeDados\\Program.cs",
               "ToolTip": "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\csharp-estruturas-e-tipos-de-dados\\EstruturaDeDados\\Program.cs",
               "RelativeToolTip": "EstruturaDeDados\\Program.cs",
-              "ViewState": "AQIAAHEAAAAAAAAAAAAuwKMAAAAlAAAA",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAAAJkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-20T23:11:44.466Z",
               "IsPinned": true,
@@ -49,45 +37,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Listas.cs",
-              "DocumentMoniker": "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\csharp-estruturas-e-tipos-de-dados\\EstruturaDeDados\\variaveis\\Listas.cs",
-              "RelativeDocumentMoniker": "EstruturaDeDados\\variaveis\\Listas.cs",
-              "ToolTip": "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\csharp-estruturas-e-tipos-de-dados\\EstruturaDeDados\\variaveis\\Listas.cs",
-              "RelativeToolTip": "EstruturaDeDados\\variaveis\\Listas.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T17:24:05.153Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HashSetListaUnica.cs",
-              "DocumentMoniker": "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\csharp-estruturas-e-tipos-de-dados\\EstruturaDeDados\\variaveis\\HashSetListaUnica.cs",
-              "RelativeDocumentMoniker": "EstruturaDeDados\\variaveis\\HashSetListaUnica.cs",
-              "ToolTip": "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\csharp-estruturas-e-tipos-de-dados\\EstruturaDeDados\\variaveis\\HashSetListaUnica.cs",
-              "RelativeToolTip": "EstruturaDeDados\\variaveis\\HashSetListaUnica.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T17:24:02.516Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EstruturasJumps.cs",
-              "DocumentMoniker": "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\csharp-estruturas-e-tipos-de-dados\\EstruturaDeDados\\EstruturasJumps\\EstruturasJumps.cs",
-              "RelativeDocumentMoniker": "EstruturaDeDados\\EstruturasJumps\\EstruturasJumps.cs",
-              "ToolTip": "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\csharp-estruturas-e-tipos-de-dados\\EstruturaDeDados\\EstruturasJumps\\EstruturasJumps.cs",
-              "RelativeToolTip": "EstruturaDeDados\\EstruturasJumps\\EstruturasJumps.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAA1wB4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T16:45:22.359Z",
-              "EditorCaption": ""
             }
           ]
         },

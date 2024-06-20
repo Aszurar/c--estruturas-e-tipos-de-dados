@@ -71,7 +71,6 @@ class Program
         listas.printList();
         listas.printListWithRemove();
         listas.printFrase();
-
         var dicionarios = new Dicionarios();
         dicionarios.printDicionario();
         
@@ -120,7 +119,7 @@ class Program
         var car = new Car("Fusca", MainColor.Black, new DateOnly(2021, 10, 10));
         car.CarInfo();
 
-                 
+
 
         var resultado = ClasseTeste.Adicionar(value1: 10, value2: 5);
         Console.WriteLine($"O resultado da soma é: {resultado}");
@@ -152,15 +151,14 @@ class Program
 
         estruturaWhile.WhileSimples();
         estruturaWhile.DoWhileSimples();
-      
+        */
+
         var estruturasJumps = new EstruturasJumps.EstruturasJumps();
+        estruturasJumps.EstruturaBreak();
+        estruturasJumps.EstruturaContinue();
+        estruturasJumps.EstruturaReturn();
 
-        //estruturasJumps.EstruturaBreak();
-        //estruturasJumps.EstruturaContinue();
-        // estruturasJumps.EstruturaReturn();
-          */
 
-        var listas = new Listas();
-        listas.printListWithRemove();
+
     }
 }
